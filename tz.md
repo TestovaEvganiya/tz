@@ -38,37 +38,37 @@
 |Пароль|Строка|Обязательно|
 
 ## Страницы с описанием ##
-![](https://github.com/TestovaEvganiya/lol/raw/master/images/city.jpg)
+![](https://github.com/TestovaEvganiya/tz/raw/master/images/city.jpg)
 <br />
 Экран с выбором города, который отобразится на карте
 <br />
 <br />
 <br />
-![](https://github.com/TestovaEvganiya/lol/raw/master/images/map.jpg)
+![](https://github.com/TestovaEvganiya/tz/raw/master/images/map.jpg)
 <br />
 Экран с картой выбранного города
 <br />
 <br />
 <br />
-![](https://github.com/TestovaEvganiya/lol/raw/master/images/login.jpg)
+![](https://github.com/TestovaEvganiya/tz/raw/master/images/login.jpg)
 <br />
 Экран авторизации пользователя
 <br />
 <br />
 <br />
-![](https://github.com/TestovaEvganiya/lol/raw/master/images/menu.jpg)
+![](https://github.com/TestovaEvganiya/tz/raw/master/images/menu.jpg)
 <br />
 Меню приложения
 <br />
 <br />
 <br />
-![](https://github.com/TestovaEvganiya/lol/raw/master/images/transit.jpg)
+![](https://github.com/TestovaEvganiya/tz/raw/master/images/transit.jpg)
 <br />
 Экран с возможностью проложить маршрут между двумя любыми точками, а также с информацией о последних используемых точках или избранных местах города
 <br />
 <br />
 <br />
-![](https://github.com/TestovaEvganiya/lol/raw/master/images/interesting.jpg)
+![](https://github.com/TestovaEvganiya/tz/raw/master/images/interesting.jpg)
 <br />
 Информация об интересных мероприятиях, проходящих в городе
 ## Требования к надежности ##
